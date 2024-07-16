@@ -1,0 +1,3 @@
+# List of generated media files. The columns are tab-separated:
+# id | media file type | display name | media file path
+62	windows	Windows	\\Mac\Home\Desktop\Modular Work\Equipment-Tracker\SupportTool_windows-x64_1_1.exe

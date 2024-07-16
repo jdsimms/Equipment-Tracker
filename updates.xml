@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="SupportTool_windows-x64_1_1.exe" newVersion="1.1" newMediaFileId="62" fileSize="14790656" md5Sum="c9fb5cfe0a118194b994ec84ef66cd24" sha256Sum="37504d93c7a4c617de5b9bdcc81f319f585a0ef9c896fe08ac946108cabe7be2" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
